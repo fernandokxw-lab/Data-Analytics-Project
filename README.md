@@ -2,13 +2,6 @@
 
 Este repositório contém a solução do desafio de Engenharia de Analytics/Análise de Dados para o Banco **Vitória (BanVic)**. O objetivo foi transformar dados brutos em inteligência de negócio para apoiar a tomada de decisão estratégica da instituição.
 
----
-
-## 🔗 [Acesse o Dashboard Interativo aqui](INSIRA_O_LINK_AQUI)
-*(Se não houver link público, remova esta linha ou substitua pelo link do vídeo no Google Drive)*
-
----
-
 ##  Contexto do Projeto
 O BanVic buscava amadurecer a sua cultura de dados para entender melhor o desempenho das suas agências, colaboradores e perfis de clientes. O projeto envolveu desde o tratamento de bases de dados complexas até a geração de recomendações estratégicas.
 
