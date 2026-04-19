@@ -46,4 +46,4 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 
 ---
 **Desenvolvido por Fernando Wang**
-www.linkedin.com/in/fernando-w-09a1b9256
+[LinkedIn](www.linkedin.com/in/fernando-w-09a1b9256)
