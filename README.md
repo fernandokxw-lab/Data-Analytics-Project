@@ -31,7 +31,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 * **Concentração de Mercado:** O Sudeste detém 47% da base de clientes, evidenciando uma oportunidade de expansão estratégica nas regiões Sul e Nordeste.
 * **Eficiência Operacional:** Identificação da Agência 7 e do Colaborador 64 como benchmarks de alta performance.
 * **Oportunidade de Crédito:** Constatação de que a taxa de aprovação atual é de apenas 25,7%. Proposta de revisão da política de crédito integrando indicadores macroeconômicos e de inadimplência.
-* **Sazonalidade:** Identificação de picos transacionais que permitem ao banco planejar melhor as campanhas de marketing. Identificação de sazonalidade com picos em Março e Dezembro, permitindo planejar a infraestrutura de atendimento e campanhas de vendas.
+* **Sazonalidade:** Identificação de picos transacionais que permitem ao banco planejar melhor as campanhas de marketing. Identificação de sazonalidade com picos entre julho e novembro, e picos no meio do mês, permitindo planejar a infraestrutura de atendimento e campanhas de vendas.
 
 ## 📁 Estrutura do Repositório
 * `LH_EA_AD_FERNANDO_WANG.pdf`: Relatório final com a documentação detalhada da análise. 
