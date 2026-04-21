@@ -23,6 +23,8 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 
 <img width="1273" height="715" alt="Captura de tela 2025-01-27 175027" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" />
 <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/01242e60-5673-408c-8942-5a1a3ea3911e" />
+<img width="617" height="415" alt="Captura de tela 2025-01-28 000316" src="https://github.com/user-attachments/assets/7260b3b8-c71f-49e8-bbb6-698315269c8e" />
+<img width="333" height="423" alt="Captura de tela 2025-01-29 051842" src="https://github.com/user-attachments/assets/4b13ae67-8a28-4adf-8322-b83289dc3c9d" />
 <img width="594" height="338" alt="Captura de tela 2025-01-27 173854" src="https://github.com/user-attachments/assets/8b3e9836-8cbd-4835-a1c8-a343ae2e0d16" />
 
 
