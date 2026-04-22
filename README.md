@@ -38,7 +38,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 
 ## 📁 Estrutura do Repositório
 * `dados`: Dataset utilizado neste projeto
-* `LH_EA_AD_FERNANDO_WANG.pdf`: Relatório final com a documentação detalhada da análise. 
+* `LH_EA_AD_FERNANDO_WANG.pdf`: Relatório final com a documentação completa da análise. 
 * `LH_EA_AD_FERNANDO_WANG.pbix`: Arquivo fonte do Power BI.
 
 ---
