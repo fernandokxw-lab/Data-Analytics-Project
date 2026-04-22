@@ -37,6 +37,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 * **Sazonalidade:** Identificação de picos transacionais que permitem ao banco planejar melhor as campanhas de marketing. Identificação de sazonalidade com picos entre julho e novembro, e picos no meio do mês, permitindo planejar a infraestrutura de atendimento e campanhas de vendas.
 
 ## 📁 Estrutura do Repositório
+* `dados`: Dataset utilizado neste projeto
 * `LH_EA_AD_FERNANDO_WANG.pdf`: Relatório final com a documentação detalhada da análise. 
 * `LH_EA_AD_FERNANDO_WANG.pbix`: Arquivo fonte do Power BI.
 
