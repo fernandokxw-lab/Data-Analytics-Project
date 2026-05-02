@@ -27,10 +27,10 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 | <img width="100%" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" /> |
 | *[Legenda: Visão consolidada da dashboard com as principais análises do BanVic]* |
 
-| ETL |
+| Ciclo ETL: Extração, Transformação e Carga |
 | :---: |
 | <img width="1917" height="985" alt="Captura de tela 2025-01-27 174651" src="https://github.com/user-attachments/assets/f1f1b018-2d2c-494e-bfdb-73068c4b419d" />|
-| *[Legenda: Ranking de eficiência por unidade]* | *[Legenda: Segmentação por perfil e comportamento]* |
+| *[Legenda: Ciclo ETL via Power Query]* |
 
 | Modelagem dimensional |
 | :---: |
