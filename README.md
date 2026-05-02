@@ -40,7 +40,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 | <img src="https://github.com/user-attachments/assets/7260b3b8-c71f-49e8-bbb6-698315269c8e" width="100%" /> | <img src="https://github.com/user-attachments/assets/4b13ae67-8a28-4adf-8322-b83289dc3c9d" width="100%" /> |
 | *[Legenda: Monitoramento de movimentações]* | *[Legenda: Distribuição por faixa etária]* |
 
-| Modelagem de Dados (Star Schema) |
+| Análise de tendências |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/8b3e9836-8cbd-4835-a1c8-a343ae2e0d16" width="60%" /> |
 | *[Legenda: Estrutura de relacionamentos do projeto]* |
