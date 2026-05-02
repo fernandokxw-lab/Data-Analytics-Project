@@ -1,4 +1,3 @@
-<img width="1919" height="1015" alt="Captura de tela 2025-01-27 174925" src="https://github.com/user-attachments/assets/dc536d3c-eda1-4807-8774-d10be669c5b4" />
 # Projeto de Analytics: Banco Vitória (BanVic)
 
 Este repositório contém a solução do desafio de Engenharia de Analytics/Análise de Dados para o Banco Vitória (BanVic). O objetivo foi transformar dados brutos em inteligência de negócio para apoiar a tomada de decisão estratégica da instituição.
