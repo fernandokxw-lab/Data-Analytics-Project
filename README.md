@@ -26,18 +26,22 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 | :---: |
 | <img width="100%" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" /> |
 
+
 | Ciclo ETL: Extração, Transformação e Carga |
 | :---: |
 | <img width="1917" height="985" alt="Captura de tela 2025-01-27 174651" src="https://github.com/user-attachments/assets/f1f1b018-2d2c-494e-bfdb-73068c4b419d" />|
+
 
 | Modelagem de dados e análise quantitativa | 
 | :---: |
 | <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/ca5c8c2a-6815-4010-89f4-fe09bdb8292a" />
  | <img width="1919" height="1015" alt="Captura de tela 2025-01-27 174925" src="https://github.com/user-attachments/assets/e097b523-bfdd-40f5-b205-28a51359df4d"/>|
 
+
 | Fluxo Transacional | Clientes com maiores transações |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/7260b3b8-c71f-49e8-bbb6-698315269c8e" width="100%" /> | <img src="https://github.com/user-attachments/assets/4b13ae67-8a28-4adf-8322-b83289dc3c9d" width="100%" /> |
+
 
 | Análise de tendências |
 | :---: |
