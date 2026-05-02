@@ -19,6 +19,10 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 4.  **Análise Quantitativa (DAX):** Criação de medidas para KPIs (Taxa de aprovação, faturamento médio, volume de transações).
 5.  **Design (Canva):** Planejamento estético e layout do dashboard para melhor experiência do usuário (UX).
 
+
+Visão Geral do Dashboard
+
+[Legenda: Visão consolidada dos principais KPIs do BanVic]
 ## Visualização do Dashboard e algumas análises feitas
 
 <img width="1273" height="715" alt="Captura de tela 2025-01-27 175027" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" />
