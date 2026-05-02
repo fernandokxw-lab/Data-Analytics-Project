@@ -30,9 +30,10 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 | :---: |
 | <img width="1917" height="985" alt="Captura de tela 2025-01-27 174651" src="https://github.com/user-attachments/assets/f1f1b018-2d2c-494e-bfdb-73068c4b419d" />|
 
-| Modelagem dimensional |
-| :---: |
-| <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/28d3694b-2832-41e5-a42d-d15e0c840da7" />|
+| Performance de Agências | Análise de Clientes |
+| :---: | :---: |
+| <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/ca5c8c2a-6815-4010-89f4-fe09bdb8292a" />
+ | <img width="1919" height="1015" alt="Captura de tela 2025-01-27 174925" src="https://github.com/user-attachments/assets/e097b523-bfdd-40f5-b205-28a51359df4d" /> |
 | *[Legenda: Ranking de eficiência por unidade]* | *[Legenda: Segmentação por perfil e comportamento]* |
 
 | Fluxo Transacional | Perfil Demográfico |
