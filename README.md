@@ -27,7 +27,7 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 | <img width="100%" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" /> |
 | *[Legenda: Visão consolidada da dashboard com as principais análises do BanVic]* |
 
-| Modelagem dimensional | Análise de Clientes |
+| Modelagem dimensional |
 | :---: | :---: |
 | <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/28d3694b-2832-41e5-a42d-d15e0c840da7" />|
 | *[Legenda: Ranking de eficiência por unidade]* | *[Legenda: Segmentação por perfil e comportamento]* |
