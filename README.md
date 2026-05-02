@@ -35,15 +35,13 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 | <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/ca5c8c2a-6815-4010-89f4-fe09bdb8292a" />
  | <img width="1919" height="1015" alt="Captura de tela 2025-01-27 174925" src="https://github.com/user-attachments/assets/e097b523-bfdd-40f5-b205-28a51359df4d"/>|
 
-| Fluxo Transacional | Perfil Demográfico |
+| Fluxo Transacional | Clientes com maiores transações |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/7260b3b8-c71f-49e8-bbb6-698315269c8e" width="100%" /> | <img src="https://github.com/user-attachments/assets/4b13ae67-8a28-4adf-8322-b83289dc3c9d" width="100%" /> |
-| *[Legenda: Monitoramento de movimentações]* | *[Legenda: Distribuição por faixa etária]* |
 
 | Análise de tendências |
 | :---: |
 | <img src="https://github.com/user-attachments/assets/8b3e9836-8cbd-4835-a1c8-a343ae2e0d16" width="60%" /> |
-| *[Legenda: Estrutura de relacionamentos do projeto]* |
 
 
 
