@@ -20,10 +20,13 @@ A metodologia seguiu o fluxo de ponta a ponta em BI:
 5.  **Design (Canva):** Planejamento estético e layout do dashboard para melhor experiência do usuário (UX).
 
 
-Visão Geral do Dashboard
-
-[Legenda: Visão consolidada dos principais KPIs do BanVic]
 ## Visualização do Dashboard e algumas análises feitas
+
+| Visão Geral do Dashboard |
+| :---: |
+| <img width="100%" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" /> |
+| *[Legenda: Visão consolidada dos principais KPIs do BanVic]* |
+
 
 <img width="1273" height="715" alt="Captura de tela 2025-01-27 175027" src="https://github.com/user-attachments/assets/74d04f66-918c-4995-a5d3-3112110a87cf" />
 <img width="1726" height="680" alt="Captura de tela 2025-01-27 174528" src="https://github.com/user-attachments/assets/01242e60-5673-408c-8942-5a1a3ea3911e" />
